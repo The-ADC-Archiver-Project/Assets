@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2944.7488"
+   height="2051.5339"
+   viewBox="0 0 779.13143 542.80169"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient55">
+      <stop
+         style="stop-color:#3d9300;stop-opacity:1;"
+         offset="0"
+         id="stop54" />
+      <stop
+         style="stop-color:#600088;stop-opacity:1;"
+         offset="1"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#b40e00;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#600088;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="162.59888"
+       y1="390.04388"
+       x2="553.50165"
+       y2="407.69156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87086135,0,0,0.87086135,55.28246,50.791408)" />
+    <linearGradient
+       xlink:href="#linearGradient55"
+       id="linearGradient54"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87086135,0,0,0.87086135,51.597301,239.82634)"
+       x1="356.72348"
+       y1="458.86987"
+       x2="537.61877"
+       y2="261.21573" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-7.309264,-125.47416)">
+    <g
+       id="g55"
+       transform="matrix(1.5356049,0,0,1.5356049,-212.56851,-359.83188)">
+      <text
+         xml:space="preserve"
+         style="font-size:230.312px;font-family:'Swis721 BdRnd BT';-inkscape-font-specification:'Swis721 BdRnd BT';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:url(#linearGradient2);fill-opacity:1;fill-rule:evenodd;stroke:#00e870;stroke-width:0;stroke-linecap:round;paint-order:markers fill stroke"
+         x="400.56015"
+         y="477.71469"
+         id="text1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Stretch Pro';-inkscape-font-specification:'Stretch Pro';fill:url(#linearGradient2);fill-opacity:1;stroke-width:0"
+           x="400.56018"
+           y="477.71469"
+           id="tspan53">AD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:230.312px;font-family:'Swis721 BdRnd BT';-inkscape-font-specification:'Swis721 BdRnd BT';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:url(#linearGradient54);fill-opacity:1;fill-rule:evenodd;stroke:#00e870;stroke-width:0;stroke-linecap:round;paint-order:markers fill stroke"
+         x="396.875"
+         y="666.74963"
+         id="text54"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Stretch Pro';-inkscape-font-specification:'Stretch Pro';fill:url(#linearGradient54);fill-opacity:1;stroke-width:0"
+           x="396.875"
+           y="666.74963"
+           id="tspan54">C</tspan></text>
+    </g>
+  </g>
+</svg>
